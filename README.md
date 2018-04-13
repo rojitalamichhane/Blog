@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/rojitalamichhane/AppStrap/blob/master/blog-bootstrap4-screenshot.png)
+![Image of Yaktocat](https://github.com/rojitalamichhane/Blog/blob/master/blog-bootstrap4-screenshot.png)
 
 # TODO Sandeep: Add Basic Usage, Advanced Usage, Gulp Tasks and Installation guide here.
 
